@@ -7,16 +7,16 @@
 // by Nisan and Schocken, MIT Press.
 // File name: projects/01/Not.hdl
 
-/**
+>/**
 * Not gate:
 * out = not in
 */
 
-CHIP Not {
-    IN in;
-    OUT out;
+>CHIP Not {
+  IN in;
+  OUT out;
 
-    PARTS:
-    // Put your code here:
-    Nand(a=in, b=in, out=out);
-}>
+> PARTS:
+  // Put your code here:
+  Nand(a=in, b=in, out=out);
+}
