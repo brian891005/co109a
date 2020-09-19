@@ -144,7 +144,7 @@ CHIP DMux {
 }</code></pre>
 
 ## THE PICTURE
-![PICTURE1](https://github.com/brian891005/co109a/blob/master/HW/%E5%9C%96%E7%89%87/1.jpg)
+![PICTURE1](https://github.com/brian891005/co109a/blob/master/HW/%E5%9C%96%E7%89%87/1.jpg) ![PICTURE2](https://github.com/brian891005/co109a/blob/master/HW/%E5%9C%96%E7%89%87/2.jpg)
 
 
 
