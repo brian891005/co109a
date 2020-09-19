@@ -144,7 +144,7 @@ CHIP DMux {
 }</code></pre>
 
 ## THE PICTURE
-<p><a target="_blank" rel="noopener noreferrer" href="/brian891005/co109a/tree/master/HW/圖片/1.jpg"><img scr="圖片/1.jpg" width="100%height="200" align="center/" style="max-width:100%;"></a></p>
+<code><p><a target="_blank" rel="noopener noreferrer" href="/brian891005/co109a/tree/master/HW/圖片/1.jpg"><img scr="圖片/1.jpg" width="100%height="200" align="center/" style="max-width:100%;"></a></p></code>
 
 <p><a target="_blank" rel="noopener noreferrer" href="/brian891005/co109a/tree/master/HW/圖片/w.jpg"><img scr="圖片/w.jpg" width="100%height="200" align="center/" style="max-width:100%;"></a></p>
 
