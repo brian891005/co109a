@@ -144,7 +144,7 @@ CHIP DMux {
 }</code></pre>
 
 ## THE PICTURE
-![PICTURE1](/圖片/1.jpg)
+![PICTURE1](HW\圖片\1.jpg)
 
 
 
