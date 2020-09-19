@@ -1,23 +1,22 @@
 # HOMEWORK WEEK1
 
 ## 1.NOT
+* CODE
+<pre><code>// This file is part of www.nand2tetris.org
+// and the book "The Elements of Computing Systems"
+// by Nisan and Schocken, MIT Press.
+// File name: projects/01/Not.hdl
 
->* CODE
->This file is part of www.nand2tetris.org
->and the book "The Elements of Computing Systems"
->by Nisan and Schocken, MIT Press.
->File name: projects/01/Not.hdl
->
->//**
-> *Not gate:
-> *out = not in
->*//
->
->CHIP Not {
-> IN in;
-> OUT out;
->
-> PARTS:
->  // Put your code here:
->  Nand(a=in, b=in, out=out);
->}
+//**
+ *Not gate:
+ *out = not in
+*//
+
+CHIP Not {
+ IN in;
+ OUT out;
+
+ PARTS:
+  // Put your code here:
+  Nand(a=in, b=in, out=out);
+}</code></pre>
