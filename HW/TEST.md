@@ -1,4 +1,4 @@
 # HOMEWORK WEEK1
 
 ## 1.NOT
-    * PICTURE
+* PICTURE
