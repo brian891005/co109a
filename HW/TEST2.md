@@ -39,6 +39,7 @@ CHIP Not16 {
 </code></pre>
 
 * PICTURE
+
 ![PICTURE1](https://github.com/brian891005/co109a/blob/master/HW/%E5%9C%96%E7%89%87/3.jpg)
 
 ## 2.AND16
@@ -80,6 +81,7 @@ CHIP And16 {
 }</code></pre>
 
 * PICTURE
+
 ![PICTURE2](https://github.com/brian891005/co109a/blob/master/HW/%E5%9C%96%E7%89%87/4.jpg)
 
 
@@ -120,6 +122,7 @@ CHIP Or16 {
 }</code></pre>
 
 * PICTURE
+
 ![PICTURE3](https://github.com/brian891005/co109a/blob/master/HW/%E5%9C%96%E7%89%87/5.jpg)
 
 
@@ -163,6 +166,7 @@ CHIP Mux16 {
 </code></pre>
 
 * PICTURE
+
 ![PICTURE4](https://github.com/brian891005/co109a/blob/master/HW/%E5%9C%96%E7%89%87/6.jpg)
 
 ## 5.OR8WAY
@@ -193,6 +197,7 @@ CHIP Or8Way {
 }</code></pre>
 
 * PICTURE
+
 ![PICTURE5](https://github.com/brian891005/co109a/blob/master/HW/%E5%9C%96%E7%89%87/7.jpg)
 
 ## 6.MUX4WAY16
@@ -222,6 +227,7 @@ CHIP Mux4Way16 {
 }</code></pre>
 
 * PICTURE
+
 ![PICTURE6](https://github.com/brian891005/co109a/blob/master/HW/%E5%9C%96%E7%89%87/8.jpg)
 
 ## 7.MUX8WAY16
@@ -259,6 +265,7 @@ CHIP Mux8Way16 {
 }</code></pre>
 
 * PICTURE
+
 ![PICTURE7](https://github.com/brian891005/co109a/blob/master/HW/%E5%9C%96%E7%89%87/9.jpg)
 
 ## 8.DMUX4WAY16
@@ -288,6 +295,7 @@ CHIP DMux4Way {
 }</code></pre>
 
 * PICTURE
+
 ![PICTURE8](https://github.com/brian891005/co109a/blob/master/HW/%E5%9C%96%E7%89%87/10.jpg)
 
 ## 9.DMUX8WAY16
@@ -322,8 +330,10 @@ CHIP DMux8Way {
 }</code></pre>
 
 * PICTURE
+
 ![PICTURE9](https://github.com/brian891005/co109a/blob/master/HW/%E5%9C%96%E7%89%87/11.jpg)
 
 ## 10.迪摩根二式
 * PICTURE
+
 ![PICTURE10](https://github.com/brian891005/co109a/blob/master/HW/%E5%9C%96%E7%89%87/12.jpg)
