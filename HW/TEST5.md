@@ -1,3 +1,39 @@
+# HOMEWORK WEEK2
+
+## 1.BIT
+* CODE
+<pre><code>
+// This file is part of www.nand2tetris.org
+// and the book "The Elements of Computing Systems"
+// by Nisan and Schocken, MIT Press.
+// File name: projects/03/a/Bit.hdl
+
+/**
+ * 1-bit register:
+ * If load[t] == 1 then out[t+1] = in[t]
+ *                 else out does not change (out[t+1] = out[t])
+ */
+
+CHIP Bit {
+    IN in, load;
+    OUT out;
+
+    PARTS:
+    // Put your code here:
+    Mux(a=gayout,b=in,sel=load,out=a);
+    DFF(in=a,out=out,out=gayout);
+}
+
+
+</code></pre>
+
+* PICTURE
+
+![PICTURE1](https://github.com/brian891005/co109a/blob/master/HW/%E5%9C%96%E7%89%87/18.jpg)
+
+## 2.REGISTER
+* CODE
+<pre><code>
 // This file is part of www.nand2tetris.org
 // and the book "The Elements of Computing Systems"
 // by Nisan and Schocken, MIT Press.
@@ -32,3 +68,14 @@ CHIP Register {
     Bit(in=in[14],load=load,out=out[14]);
     Bit(in=in[15],load=load,out=out[15]);
 }
+</code></pre>
+
+* PICTURE
+
+![PICTURE2](https://github.com/brian891005/co109a/blob/master/HW/%E5%9C%96%E7%89%87/19.jpg)
+
+## 補充
+
+* PICTURE
+
+![PICTURE2](https://github.com/brian891005/co109a/blob/master/HW/%E5%9C%96%E7%89%87/20.jpg)
