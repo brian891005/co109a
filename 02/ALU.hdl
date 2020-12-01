@@ -54,9 +54,9 @@ CHIP ALU {
    And16(a=x2,b=y2,out=x2any2);
    Mux16(a=x2any2,b=x2ady2,sel=f,out=fo);  
    Not16(in=fo,out=nf);
-   //Mux16(a=fo,b=nf,sel=no,out=out);//ALU-nostat
+   
 
-   //下面是ALU.hdl
+   //ALU.hdl
    Mux16(a=fo,b=nf,sel=no,out=out,out[0..7]=H,out[8..15]=L,out[15]=ng);
 
    Or8Way(in=H,out=H1);
