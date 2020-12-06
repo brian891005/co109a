@@ -1,3 +1,8 @@
+# HOMEWORK WEEK8補充
+
+## C語言指令
+* CODE
+<pre><code>
 // This file is part of www.nand2tetris.org
 // and the book "The Elements of Computing Systems"
 // by Nisan and Schocken, MIT Press.
@@ -55,3 +60,13 @@ D;JEQ //當計數器0跳出迴圈LOOP1
 0;JMP //回到LOOP1迴圈
 @0
 0;JMP //回到主迴圈指令1
+</code></pre>
+* 了解螢幕與鍵盤對組合語言的關係
+
+* PICTURE(完成圖)
+
+![PICTURE1](https://github.com/brian891005/co109a/blob/master/HW/%E5%9C%96%E7%89%87/24.jpg)
+
+* PICTURE(Hack)
+
+![PICTURE2](https://github.com/brian891005/co109a/blob/master/HW/%E5%9C%96%E7%89%87/25.jpg)
