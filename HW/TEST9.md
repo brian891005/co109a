@@ -1,3 +1,8 @@
+# HOMEWORK WEEK8補充
+
+## C語言指令
+* CODE
+<pre><code>
 // This file is part of www.nand2tetris.org
 // and the book "The Elements of Computing Systems"
 // by Nisan and Schocken, MIT Press.
@@ -25,3 +30,13 @@ M=M-1 //計數器-1
 0;JMP //回到LOOP1
 @16
 0;JMP
+</code></pre>
+* 先將組合語言用C語言寫好，再轉換
+
+* PICTURE(完成圖)
+
+![PICTURE1](https://github.com/brian891005/co109a/blob/master/HW/%E5%9C%96%E7%89%87/22.jpg)
+
+* PICTURE(Hack)
+
+![PICTURE2](https://github.com/brian891005/co109a/blob/master/HW/%E5%9C%96%E7%89%87/23.jpg)
