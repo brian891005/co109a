@@ -1,3 +1,8 @@
+# HOMEWORK WEEK8
+
+## 1.PC
+* CODE
+<pre><code>
 // This file is part of www.nand2tetris.org
 // and the book "The Elements of Computing Systems"
 // by Nisan and Schocken, MIT Press.
@@ -23,3 +28,9 @@ CHIP PC {
     Mux16(a=Load,b=false,sel=reset,out=Re);
     Register(in=Re,load=true,out=PC,out=out);
 }
+
+</code></pre>
+
+* PICTURE
+
+![PICTURE1](https://github.com/brian891005/co109a/blob/master/HW/%E5%9C%96%E7%89%87/32.jpg)
