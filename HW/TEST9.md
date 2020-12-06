@@ -1,6 +1,5 @@
-# HOMEWORK WEEK8補充
-
-## C語言指令
+# HOMEWORK WEEK9
+## 語言指令
 * CODE
 <pre><code>
 // This file is part of www.nand2tetris.org
