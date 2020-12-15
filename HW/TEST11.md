@@ -1,3 +1,8 @@
+# HOMEWORK WEEK11
+
+## Memory
+* CODE
+<pre><code>
 // This file is part of www.nand2tetris.org
 // and the book "The Elements of Computing Systems"
 // by Nisan and Schocken, MIT Press.
@@ -37,3 +42,10 @@ CHIP Memory {
     Mux16(a=Sout,b=Kout,sel=address[13],out=SKout);
     Mux16(a=Rout,b=SKout,sel=address[14],out=out);
 }
+</code></pre>
+* 了解螢幕與鍵盤對暫存器的關係
+* 當程式暫停時，先切換view到keyboard常按k以繼續執行程式
+
+* PICTURE
+
+![PICTURE1](https://github.com/brian891005/co109a/blob/master/HW/%E5%9C%96%E7%89%87/33.jpg)
